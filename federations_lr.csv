@@ -1,0 +1,109 @@
+Département,President,Secretaire,Permanence
+01 Ain,Xavier Breton,Damien Abad,51 avenue Alsace Lorraine - 01000 - Bourg-en-Bresse
+02 Aisne,Pierre-Jean Verzelen,Christophe Coulon,19 rue du gouvernement - 02100 - Saint-Quentin
+03 Allier,Claude Malhuret,Isabelle Gardien,32 rue Montaret - 03200 - Vichy
+04 Alpes-de-Haute-Provence,Sébastien Ginet,Pas de secrétaire,17 rue du Docteur Honnorat - 04000 - Digne-les-Bains
+05 Hautes-Alpes,Pas de président,Monique Para,Pas de permanence
+06 Alpes-Maritimes,Christian Estrosi,Eric Ciotti,Pas de permanence
+07 Ardèche,Jean-Claude Flory,Mathieu Darnaud,"16, les Domaines de la Gare Le Stephenson - 07100 - Annonay"
+08 Ardennes,Jean-Luc Warsmann,Else Joseph,72 avenue du petit bois - 08000 - Charleville-Mézières
+09 Ariège,Philippe Calleja,Jean Saint-Martin,7 place Escholier - 09500 - Mirepoix
+10 Aube,François Baroin,François Mandelli,20 rue Claude Huez - 10000 - Troyes
+11 Aude,Isabelle Chesa,Michel Py,45 rue Aimé Ramond - 11000 - Carcassonne
+12 Aveyron,Yves Censi,Sébastien David,5 boulevard de la République - 12000 - Rodez
+13 Bouches-du-Rhône,Bruno Gilles,Martine Vassal,39 rue Sainte-Cécile - 13005 - Marseille
+14 Calvados,Pascal Allizard,Cédric Nouvelot,17 rue varignon - 14000 - Caen
+15 Cantal,Alain Marleix,Eddy Raulin,17 rue Marie Maurel - 15000 - Aurillac
+16 Charente,Xavier Bonnefont,Jean-Hubert Lelievre,37 rue du Minage - 16000 - Angoulême
+17 Charente-Maritime,Jean Louis Leonard,Didier Quentin,61 avenue Lafayette - 17300 - Rochefort
+18 Cher,David Dallois,Wladimir d'Ormesson,11 rue Séraucourt - 18000 - Bourges
+19 Corrèze,Jean-Daniel Vilatte,Michèle Gary-Paillassou,9 quai Baluze - 19000 - Tulle
+21 Côte-d'Or,Rémi Delatte,Pierre Bolze,38 boulevard de la Marne - 21000 - Dijon
+22 Côtes-d'Armor,Alain Cadec,Marc Le Fur,8 boulevard de Sévigné - 22000 - Saint-Brieuc
+23 Creuse,Laurent Daulny,Pas de secrétaire,2 rue du Capitaine Moure - 23140 - Cressat
+24 Dordogne,Dominique Bousquet,Fabien Marty,1 rue Emile Zola - 24200 - Sarlat
+25 Doubs,Annie Genevard,Michel Vienet,11 place Victor Hugo - 25000 - Besançon
+26 Drôme,Hervé Mariton,Patrick Labaune,51 rue Denis Papin - 26000 - Valence
+27 Eure,Pas de président,Pas de secrétaire,3 rue Saint Nicolas - 27000 – Evreux
+28 Eure-et-Loir,Olivier Marleix,Christine Goimbault,4 rue Georges Fessard - 28000 - Chartres
+29 Finistère,Maël de Calan,Agnès Le Brun,Pas de permanence
+2A Corse-du-Sud,Marcel Francisci,Franck Giovannucci,17 cours Napoléon - 20000 - Ajaccio
+2B Haute-Corse,Stéphanie Grimaldi,François-Xavier Ceccoli,10 avenue du Maréchal Biastani - 20200 - Bastia
+30 Gard,Max Roustan,Jean-Paul Fournier,8 quai de la fontaine - 30000 - Nîmes
+31 Haute-Garonne,Laurence Arribagé,Christine Gennaro-Saint,6 rue Gabriel Péri - 31000 - Toulouse
+32 Gers,Grégory Bobbato,Christine Ducarrouge,21 allée de Lagarrasic - 32000 - Auch
+33 Gironde,Alain Juppé,Nicolas Florian,11 cours Xavier Arnozan - 33300 - Bordeaux
+34 Hérault,Elie Aboud,Arnaud Julien,Le Toulouse Entrée A 59 avenue de Toulouse - 34000 - Montpellier
+35 Ille-et-Vilaine,Isabelle Le Callennec,Nicolas Belloir,101 rue Jean Guehenno - 35000 - Rennes
+36 Indre,Nicolas Forissier,Brice Tayon,88 avenue Charles de Gaulle - 36000 - Chateauroux
+37 Indre-et-Loire,Frédéric Augis,Fabrice Boigard,11 boulevard Heurteloup - 37000 - Tours
+38 Isère,Thierry Kovacs,Alexandre Roux,9 place Paul Vallier - 38000 - Grenoble
+39 Jura,Jean-Marie Sermier,Marie Christine Dalloz,38 rue Lecourbe - 39000 - Lons-le-Saunier
+40 Landes,Marie-Françoise Nadau,Pas de secrétaire,39 avenue Victor Hugo - 40100 - Dax
+41 Loir-et-Cher,Guillaume Peltier,Pascal Bioulac,2 boulevard du Palais - 41000 - Blois
+42 Loire,Jean-Pierre Taite,Robert Karulak,24 rue de la Résistance - 42000 - Saint-Etienne
+43 Haute-Loire,Laurent Wauquiez,Jean-Pierre Vigier,1 place aux Laines - 43000 - Le Puy-en-Velay
+44 Loire-Atlantique,François Pinte,Gatien Meunier,10 rue Gaëtan Rondeau - 44200 - Nantes
+45 Loiret,Jean-Pierre Door,Pas de secrétaire,54 rue de la Bretonnerie - 45000 - Orléans
+46 Lot,Aurélien Pradié,Brigitte Riviere,851 rue Emile Zola - 46000 - Cahors
+47 Lot-et-Garonne,Jean-Louis Costes,Christine Bonfanti-Dossat,10 rue Palissy - 47000 - Agen
+48 Lozère,Sabine Dalle,Pierre Morel-à-l'Huissier,3 allée Piencourt - 48000 - Mende
+49 Maine-et-Loire,Jean-Charles Taugourdeau,Laurent Pretrot,72 rue Rabelais - 49000 - Angers
+50 Manche,Philippe Gosselin,Pas de secrétaire,45 route de Villedieu - 50000 - Saint-Lô
+51 Marne,Arnaud Robinet,Valérie Beauvais,25 rue Prieur de la Marne - 51000 - Châlons-en-Champagne
+52 Haute-Marne,Luc Chatel,François Cornut-Gentille,34 bis rue Toupot de Beveaux - 52000 - Chaumont
+53 Mayenne,Samia Vigneron,Catherine Dirson,13 bis rue Jules Ferry - 53000 - Laval
+54 Meurthe-et-Moselle,Jacques Lamblin,Nadine Morano,63 rue Saint Georges - 54000 - Nancy
+55 Meuse,Gérard Longuet,Pierre Regent,53 rue Martelot - 55000 - Bar-le-Duc
+56 Morbihan,François Goulard,Olivier Coulon,18 rue Richemont - 56000 - Vannes
+57 Moselle,François Grosdidier,Patrick Thil,4 rue Christian Pfister - 57000 - Metz
+58 Nièvre,Carole Boirin,Jacques Baudhuin,"les Républicains"" BP53 - 58640 - Varennes-Vauzelle
+59 Nord	Pas de président	Bernard Gérard	83 boulevard Carnot - 59000 - Lille
+60 Oise	Eric Woerth	Edouard Courtial	9 avenue du Maréchal Foch - 60300 - Senlis
+61 Orne	Jérôme Nury	Véronique Louwagie	2 rue du cygne - 61000 - Alençon
+62 Pas-de-Calais	Daniel Fasquelle	Frédéric Sablon	11 rue de Calais - 62500 - Saint-Omer
+63 Puy-de-Dôme	Brice Hortefeux	Lionel Chauvin	8 rue Blatin - 63000 - Clermont-Ferrand
+64 Pyrénées-Atlantiques	Pas de président	Nicolas Patriarche	5 rue du Maréchal Joffre - 64000 - Pau
+65 Hautes-Pyrénées	Gérard Trémege	Sylvain Peretto	2 rue de l'Harmonie - 65000 - Tarbes
+66 Pyrénées-Orientales	François Lietta	David Mach	53 avenue du Général de Gaulle - 66000 - Perpignan
+67 Bas-Rhin	Laurent Furst	Georges Schuller	16 rue Eugène Delacroix - 67200 - Strasbourg
+68 Haut-Rhin	Catherine Troendle	Eric Straumann	52 rue du Sauvage - 68100 - Mulhouse
+69 Rhône	Philippe Cochet	Michel Forissier	48 avenue de Saxe - 69009 - Lyon
+70 Haute-Saône	Stéphane Kroemer	Alain Joyandet	20 place Pierre Renet - 70000 - Vesoul
+71 Saône-et-Loire	Gilles Platret	Arnaud Danjean	38 rue du Général Leclerc - 71100 - Chalon-sur-Saône
+72 Sarthe	Béatrice Pavy-Morançais	Vanessa Charbonneau	43 avenue du Général de Gaulle - 72000 - Le Mans
+73 Savoie	Renaud Beretti	Aloïs Chassot	91 bis rue d'Angleterre - 73000 - Chambéry
+74 Haute-Savoie	Bernard Accoyer	Virginie Duby-Muller	59 avenue de Genève - 74000 - Annecy
+75 Paris	Philippe Goujon	Frédéric Péchenard	238 rue de Vaugirard - 75015 - Paris
+76 Seine-Maritime	Pas de président	Françoise Guegot	8 place de la Haute Tour - 76000 - Rouen
+77 Seine-et-Marne	Christian Jacob	Jean-François Copé	35 rue Cornillon - 77100 - Meaux
+78 Yvelines	David Douillet	Sophie Primas	8 rue Jean-Baptiste Muet - 78350 - Jouy-en-Josas
+79 Deux-Sèvres	Philippe Mouiller	Béatrice Largeau	13 avenue de Verdun - 79000 - Niort
+80 Somme	Alain Gest	Pierre Savreux	9 rue Lamartine - 80000 - Amiens
+81 Tarn	Bernard Carayon	Jean-Claude Salvignol	13 rue Gambetta - 81100 - Castres
+82 Tarn-et-Garonne	Brigitte Barèges	Marie-Claude Berly	1 place Guibert BP242 - 82000 - Montauban
+83 Var	Hubert Falco	Philippe Vitel	Immeuble Le Concorde 280 avenue du Maréchal Foch - 83000 - Toulon
+84 Vaucluse	Alain Milon	Jean-Baptiste Blanc	19 place des Etudes - 84000 - Avignon
+85 Vendée	Bruno Retailleau	Isabelle Rivière	5A rue Victor Hugo - 85000 - La Roche-sur-Yon
+86 Vienne	Olivier Chartier	Michel Savattier	48 rue Carnot BP472 - 86000 - Poitiers
+87 Haute-Vienne	Guillaume Guerin	Rémy Viroulaud	8 avenue de la Libération - 87000 - Limoges
+88 Vosges	François Vannson	Jean-Pierre Schmaltz	3 rue des noirs Halles - 88000 - Epinal
+89 Yonne	Pas de président	Guillaume Larrivé	3 impasse Maison Fort - 89000 - Auxerre
+90 Territoire de Belfort	Damien Meslot	Ian Boucard	4 rue Georges Clémenceau - 90000 - Belfort
+91 Essonne	Stéphane Beaudet	Grégoire de Lasteyrie	49 boulevard Aristide Briand - 91600 - Savigny-sur-Orge
+92 Hauts-de-Seine	Philippe Juvin	Roger Karoutchi	97 avenue Achille Peretti - 92200 - Neuilly-sur-Seine
+93 Seine-Saint-Denis	Philippe Dallier	Bruno Beschizza	Pas de permanence
+94 Val-de-Marne	Christian Cambon	Jean-Paul Faure-Soulet	12 place du Clos Pacy - 94370 - Sucy-en-Brie
+95 Val-d'Oise	Pas de président	Claude Bodin	1 rue Saint-Flaive prolongée - 95120 - Ermont
+971 Guadeloupe	Sonia Petro	Laurent Bernier	22 rue Delgres - 97100 - Pointe-à-Pitre
+972 Martinique	Fred Tirault	Karine Mousseau	Pas de permanence
+973 Guyane	Paulin Brune	Gamal François Vibert Hooseinbux	Pas de permanence
+974 La Réunion	Michel Fontaine	Béatrice Marie Sigismau	66 rue Victor Le Vigoureux - 97410 - Saint-Pierre
+975 Saint-Pierre-et-Miquelon	Pas de président	Pas de secrétaire	Pas de permanence
+976 Mayotte	Monsour Kamardine	Ambdilwahedou Soumaila	Pas de permanence
+977 Saint-Barthélemy	Alfred Brin	Francius Matignon	BP478 Gustavia - 97097 - Saint-Barthélemy Cedex
+978 Saint-Martin	Pas de président	Daniel Gibbs	Pas de permanence
+986 Wallis-et-Futuna	Hervé Delord	Victor Brial	BP189 Aka'Aka - 98600 - Uvea
+987 Polynésie française	Pas de président	Gaston Tong Sang	Pas de permanence
+988 Nouvelle-Calédonie	Pas de président	Pierre Frogier	13 rue de Sébastopol - 98800 - Nouméa
+"
